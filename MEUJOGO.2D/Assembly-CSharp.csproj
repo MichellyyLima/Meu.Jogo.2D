@@ -68,6 +68,9 @@
     <None Include="Assets\imagens\kenney_pixel-platformer\Tilesheet (Tiles).txt" />
     <None Include="Assets\imagens\kenney_pixel-platformer\License.txt" />
     <None Include="Assets\imagens\kenney_pixel-platformer\Construct 3\Readme.txt" />
+    <None Include="Assets\imagens\kenney_pixel-platformer\Tilemap\TILES\kenney_pixel-platformer-food-expansion\Tilesheet.txt" />
+    <None Include="Assets\imagens\kenney_pixel-platformer\Tilemap\TILES\kenney_pixel-platformer-food-expansion\Construct 3\Readme.txt" />
+    <None Include="Assets\imagens\kenney_pixel-platformer\Tilemap\TILES\kenney_pixel-platformer-food-expansion\License.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
